@@ -7,6 +7,10 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "v18.12.1"
+  },
+
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
